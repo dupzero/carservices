@@ -24,7 +24,3 @@ Homestead.yaml
 npm-debug.log
 Thumbs.db
 yarn-error.log
-
-# Project exclude paths
-/storage/app/
-/storage/framework/
